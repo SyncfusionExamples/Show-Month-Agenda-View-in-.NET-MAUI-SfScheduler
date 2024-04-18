@@ -53,7 +53,7 @@ namespace MonthViewWithAgenda
         #region Constructor
 
         /// <summary>
-        /// Initializes a new instance of the <see cref="SchedulerDataBindingViewModel" /> class.
+        /// Initializes a new instance of the <see cref="MonthAgendaViewViewModel" /> class.
         /// </summary>
         public MonthAgendaViewViewModel()
         {
